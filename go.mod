@@ -6,7 +6,7 @@ retract v0.24.3 // this includes a breaking change and should have been released
 
 require (
 	github.com/Jorropo/jsync v1.0.1
-	github.com/dep2p/libp2p v0.0.2
+	github.com/dep2p/libp2p v0.0.4
 	github.com/gogo/protobuf v1.3.2
 	github.com/google/gopacket v1.1.19
 	github.com/google/uuid v1.6.0
